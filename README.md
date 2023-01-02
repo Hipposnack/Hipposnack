@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hipposnack
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ruby
 
 
 
